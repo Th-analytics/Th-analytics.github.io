@@ -389,7 +389,9 @@ strong {
   min-height: 475px;
   object-fit: cover;
 }
-
+.pad_item{
+padding-left:10px
+}
 .team-thumb {
   background: var(--white-color);
   position: absolute;
